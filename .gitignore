@@ -1,0 +1,13 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/ProductManager API/v17/.futdcache.v2
+/.vs/ProjectEvaluation/productmanager api.projects.v6.1
+/.vs/ProjectEvaluation/productmanager api.metadata.v6.1
+/.vs/ProductManager API/v17/.suo
+/.vs/ProductManager API/DesignTimeBuild/.dtbcache.v2
+/.vs/ProductManager API/FileContentIndex/07364c70-cb31-4ae1-8de7-46b62e4667f3.vsidx
+/.vs/ProductManager API/FileContentIndex/6dd50bff-8045-485e-ae12-99f7faa0ce1d.vsidx
+/.vs/ProductManager API/FileContentIndex/f713dcc3-3677-4da2-bde3-61a751904ae4.vsidx
+/.vs/ProductManager API/FileContentIndex/fbba169a-f66f-4ee2-81fc-f511b62faa21.vsidx
