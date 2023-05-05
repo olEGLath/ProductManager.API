@@ -1,0 +1,33 @@
+C:\Users\Home\source\repos\ProductManager API\ProductManager API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Home\source\repos\ProductManager API\ProductManager API\bin\Debug\net6.0\appsettings.json
+C:\Users\Home\source\repos\ProductManager API\ProductManager API\bin\Debug\net6.0\ProductManager API.exe
+C:\Users\Home\source\repos\ProductManager API\ProductManager API\bin\Debug\net6.0\ProductManager API.deps.json
+C:\Users\Home\source\repos\ProductManager API\ProductManager API\bin\Debug\net6.0\ProductManager API.runtimeconfig.json
+C:\Users\Home\source\repos\ProductManager API\ProductManager API\bin\Debug\net6.0\ProductManager API.dll
+C:\Users\Home\source\repos\ProductManager API\ProductManager API\bin\Debug\net6.0\ProductManager API.pdb
+C:\Users\Home\source\repos\ProductManager API\ProductManager API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Home\source\repos\ProductManager API\ProductManager API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Home\source\repos\ProductManager API\ProductManager API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Home\source\repos\ProductManager API\ProductManager API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Home\source\repos\ProductManager API\ProductManager API\obj\Debug\net6.0\ProductManager API.csproj.AssemblyReference.cache
+C:\Users\Home\source\repos\ProductManager API\ProductManager API\obj\Debug\net6.0\ProductManager API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\source\repos\ProductManager API\ProductManager API\obj\Debug\net6.0\ProductManager API.AssemblyInfoInputs.cache
+C:\Users\Home\source\repos\ProductManager API\ProductManager API\obj\Debug\net6.0\ProductManager API.AssemblyInfo.cs
+C:\Users\Home\source\repos\ProductManager API\ProductManager API\obj\Debug\net6.0\ProductManager API.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\ProductManager API\ProductManager API\obj\Debug\net6.0\ProductManager API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Home\source\repos\ProductManager API\ProductManager API\obj\Debug\net6.0\ProductManager API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Home\source\repos\ProductManager API\ProductManager API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Home\source\repos\ProductManager API\ProductManager API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Home\source\repos\ProductManager API\ProductManager API\obj\Debug\net6.0\scopedcss\bundle\ProductManager API.styles.css
+C:\Users\Home\source\repos\ProductManager API\ProductManager API\obj\Debug\net6.0\ProductManager API.csproj.CopyComplete
+C:\Users\Home\source\repos\ProductManager API\ProductManager API\obj\Debug\net6.0\ProductManager API.dll
+C:\Users\Home\source\repos\ProductManager API\ProductManager API\obj\Debug\net6.0\refint\ProductManager API.dll
+C:\Users\Home\source\repos\ProductManager API\ProductManager API\obj\Debug\net6.0\ProductManager API.pdb
+C:\Users\Home\source\repos\ProductManager API\ProductManager API\obj\Debug\net6.0\ProductManager API.genruntimeconfig.cache
+C:\Users\Home\source\repos\ProductManager API\ProductManager API\obj\Debug\net6.0\ref\ProductManager API.dll
+C:\Users\Home\source\repos\ProductManager API\ProductManager API\bin\Debug\net6.0\ProductManager.Core.dll
+C:\Users\Home\source\repos\ProductManager API\ProductManager API\bin\Debug\net6.0\ProductManager.Domain.dll
+C:\Users\Home\source\repos\ProductManager API\ProductManager API\bin\Debug\net6.0\ProductManager.Infra.dll
+C:\Users\Home\source\repos\ProductManager API\ProductManager API\bin\Debug\net6.0\ProductManager.Domain.pdb
+C:\Users\Home\source\repos\ProductManager API\ProductManager API\bin\Debug\net6.0\ProductManager.Infra.pdb
+C:\Users\Home\source\repos\ProductManager API\ProductManager API\bin\Debug\net6.0\ProductManager.Core.pdb
