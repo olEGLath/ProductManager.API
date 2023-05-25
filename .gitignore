@@ -11,3 +11,25 @@
 /.vs/ProductManager API/FileContentIndex/6dd50bff-8045-485e-ae12-99f7faa0ce1d.vsidx
 /.vs/ProductManager API/FileContentIndex/f713dcc3-3677-4da2-bde3-61a751904ae4.vsidx
 /.vs/ProductManager API/FileContentIndex/fbba169a-f66f-4ee2-81fc-f511b62faa21.vsidx
+*.dll
+/ProductManager API/bin/Debug/net6.0/appsettings.Development.json
+/ProductManager API/bin/Debug/net6.0/appsettings.json
+/ProductManager API/bin/Debug/net6.0/ProductManager API.pdb
+/ProductManager API/bin/Debug/net6.0/ProductManager API.deps.json
+/ProductManager API/bin/Debug/net6.0/ProductManager API.dll
+/ProductManager API/obj/Debug/net6.0/ref/ProductManager API.dll
+/ProductManager API/obj/Debug/net6.0/refint/ProductManager API.dll
+/ProductManager API/obj/Debug/net6.0/ProductManager API.assets.cache
+/ProductManager API/obj/Debug/net6.0/ProductManager API.csproj.AssemblyReference.cache
+/ProductManager API/obj/Debug/net6.0/ProductManager API.csproj.CoreCompileInputs.cache
+/ProductManager API/obj/Debug/net6.0/ProductManager API.csproj.FileListAbsolute.txt
+/ProductManager API/obj/Debug/net6.0/ProductManager API.dll
+/ProductManager API/obj/Debug/net6.0/ProductManager API.pdb
+*.vsidx
+*.log
+/ProductManager API/obj/ProductManager API.csproj.nuget.dgspec.json
+/ProductManager API/obj/ProductManager API.csproj.nuget.g.targets
+/ProductManager API/obj/project.assets.json
+/ProductManager API/obj/staticwebassets.pack.sentinel
+/ProductManager API/obj/project.nuget.cache
+/ProductManager API/appsettings.Development.json
