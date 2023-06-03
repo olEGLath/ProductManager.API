@@ -33,3 +33,23 @@
 /ProductManager API/obj/staticwebassets.pack.sentinel
 /ProductManager API/obj/project.nuget.cache
 /ProductManager API/appsettings.Development.json
+/ProductManager API/bin/Debug/net6.0/ProductManager.Infra.pdb
+/ProductManager API/bin/Debug/net6.0/ProductManager.Domain.pdb
+/ProductManager API/bin/Debug/net6.0/ProductManager.Core.pdb
+/ProductManager.Infra/obj/Debug/net6.0/ref/ProductManager.Infra.dll
+/ProductManager.Infra/obj/Debug/net6.0/ProductManager.Infra.pdb
+/ProductManager.Infra/obj/Debug/net6.0/ProductManager.Infra.csproj.AssemblyReference.cache
+/ProductManager.Core/obj/Debug/net6.0/ref/ProductManager.Core.dll
+/ProductManager.Core/obj/Debug/net6.0/refint/ProductManager.Core.dll
+/ProductManager.Core/bin/Debug/net6.0/ProductManager.Core.dll
+/ProductManager.Infra/bin/Debug/net6.0/ProductManager.Infra.pdb
+/ProductManager.Infra/bin/Debug/net6.0/ProductManager.Core.pdb
+/ProductManager.Core/obj/Debug/net6.0/ProductManager.Core.pdb
+/ProductManager.Core/obj/Debug/net6.0/ProductManager.Core.csproj.CoreCompileInputs.cache
+/ProductManager.Core/obj/Debug/net6.0/ProductManager.Core.csproj.BuildWithSkipAnalyzers
+/ProductManager.Domain/obj/Debug/net6.0/ProductManager.Domain.pdb
+/ProductManager.Domain/obj/Debug/net6.0/ProductManager.Domain.csproj.AssemblyReference.cache
+/ProductManager.Domain/bin/Debug/net6.0/ProductManager.Infra.pdb
+/ProductManager.Domain/bin/Debug/net6.0/ProductManager.Domain.pdb
+/ProductManager.Domain/bin/Debug/net6.0/ProductManager.Core.pdb
+/ProductManager.Core/bin/Debug/net6.0/ProductManager.Core.pdb

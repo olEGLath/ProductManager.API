@@ -20,7 +20,7 @@ namespace ProductManager.Domain.Services
 
         public async Task<Product> CriarProdutoAsync(Product product)
         {
-            return await _productRepository.CriarProdutoAsync(product);
+            return await _productRepository.CriarProduto(product);
         }
 
         public async Task DeletarProdutosAsync(int id)

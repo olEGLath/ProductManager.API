@@ -17,21 +17,49 @@ namespace ProductManager.Infra.Repository
             };
         }
 
-        public Task<Product> AtualizarProdutoAsync(Product product)
+        public async Task<Product> AtualizarProdutoAsync(Product product)
+        {
+            Product existeProduto = _products.FirstOrDefault(product => product.Id == product.Id);
+
+            if (existeProduto != null)
+            {
+                existeProduto.Nome = product.Nome;
+                existeProduto.Preco = product.Preco;
+                return existeProduto;
+            }
+            else
+            {
+                throw new Exception("Produto não encontrado.");
+            }
+        }
+
+        public Task<Product> CriarProduto(Product product)
         {
             throw new NotImplementedException();
         }
 
-        public Task<Product> CriarProdutoAsync(Product product)
+        public async Task<Product> CriarProdutoAsync(Product product)
         {
-            throw new NotImplementedException();
+            int novoProduto = _products.Max(p => p.Id) + 1;
+
+            product.Id = novoProduto;
+
+            _products.Add(product);
+
+            return product;
         }
 
-        public Task DeletarProdutosAsync(int id)
+        public async Task DeletarProdutosAsync(int id)
         {
-            throw new NotImplementedException();
-        }
+            Product product = _products.FirstOrDefault(p => p.Id == id);
 
+            if (product != null)
+            {
+                _products.Remove(product);
+            }
+            else { throw new Exception("Produto não encontrado!"); 
+        }
+    }
         public async Task<Product> ObterProdutoPorIdAsync(int id)
         {
             return await Task.FromResult(_products.FirstOrDefault(p => p.Id == id));
